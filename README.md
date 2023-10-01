@@ -3,4 +3,4 @@ Um plugin de maçã do capiroto editável que faz com que suas maçãs sejam con
 além de que é possível editar os efeitos e usar uma maçã especial do seu agrado!
 
 **Imagens:**
-[img](https://imgur.com/UsDnf0p.png)
+[image](https://i.imgur.com/UsDnf0p.png)
