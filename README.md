@@ -4,3 +4,5 @@ além de que é possível editar os efeitos e usar uma maçã especial do seu ag
 
 **Imagens:**
 ![image](https://i.imgur.com/UsDnf0p.png)
+
+![image](https://i.imgur.com/NdZjj4g.png)
