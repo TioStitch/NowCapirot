@@ -1,8 +1,0 @@
-name: NowCapirot
-main: de.tiostitch.capirot.Main
-version: 1.0
-author: TioStitch
-description: Um simples plugin de maçã.
-commands:
-  cap:
-    permission: 'NowCapirot.capGive'
